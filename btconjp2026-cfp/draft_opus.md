@@ -97,11 +97,10 @@ Jamf Pro、Intune、Okta、Netskope、Google Workspace、ServiceNow、Workato。
 
 ### コミュニティ活動
 
-- 情シスSlack「情シス転職ミートアップ」運営
 - JWUG（Japan Workato User Group）運営
-- JMUG（Japan Macintosh Users Group／Mac管理者コミュニティ）運営
+- JMUG（Japan Macadmin User Group／Mac管理者コミュニティ）運営
 
-情シスSlackのコミュニティ運営側にも関わっており、BTCONJPの趣旨には強く共感しています。
+ユーザーコミュニティの運営に携わってきた立場としても、BTCONJPの趣旨には強く共感しています。
 
 ### 資料・運営対応について
 
